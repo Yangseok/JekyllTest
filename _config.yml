@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "히키코모리 개발자 닷컴"
+title                    : "히키코모리 개발자 컨텐츠"
 title_separator          : "-"
 name                     : "이양석"
 description              : "개발 블로그, 카페, 유튜브등 컨텐츠 모음 페이지"
