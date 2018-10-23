@@ -1,3 +1,3 @@
-히키코모리 개발자 컨텐츠를 모으는 사이트입니다.
+깃헙 페이지 Jekyll 테스트
 
-https://yangseok.github.io/hikikomori/
+https://yangseok.github.io/JekyllTest/
